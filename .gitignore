@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+hello-gradle-logs
+.gradle
+/build
+*.iml
+/src/test/demo/mapper/*
+/src/test/demo/mybatis/*
+/src/test/resources/*.xml
