@@ -1,0 +1,4 @@
+2015-10-17 11:34:03.049 INFO [Test worker][Log4j2Impl.java:106] - {dataSource-1} inited
+2015-10-17 11:34:03.474 DEBUG [Test worker][LogFactory.java:135] - Logging initialized using 'class org.apache.ibatis.logging.log4j2.Log4j2Impl' adapter.
+2015-10-17 11:34:03.645 DEBUG [Test worker][DemoTest.java:21] - test name
+2015-10-17 11:34:03.647 DEBUG [Test worker][DemoTest.java:26] - class com.sun.proxy.$Proxy47
