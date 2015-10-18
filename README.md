@@ -87,4 +87,8 @@ gradle install
 
 gradle createPom  
 
-将会在build根目录下生成pom.xml文件，把它复制项目根目录下，即可将gradle方便转成maven项目
+将会在build根目录下生成pom.xml文件，把它复制项目根目录下，即可将gradle方便转成maven项目  
+
+---
+
+作者：[菩提树下的杨过](http://www.cnblogs.com/yjmyzz/p/gradle-getting-start.html/) http://yjmyzz.cnblogs.com/
